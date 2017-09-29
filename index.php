@@ -8,6 +8,9 @@ class Tarea{
         else
             return $n2;
     }
+    function menorDosNumeros(){
+        return 0;
+    }
     
 }
 
